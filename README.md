@@ -12,7 +12,7 @@ The following **required** functionality is complete:
 * [X] Map IPs to a map using Basemap library
 
 Potential future improvements:
-* [X] Add IP labels to the map
+* [ ] Add IP labels to the map
 
 
 ## Video Walkthrough
